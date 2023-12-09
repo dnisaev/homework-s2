@@ -34,7 +34,7 @@ export const message0: MessageType = {
         name: 'Daiv',  // можно менять
     },
     message: {
-        text: 'Hi bro, how you doing?', // можно менять
+        text: 'Hello, she didn’t do anything and rested all day, how are you?', // можно менять
         time: '22:00', // можно менять
     },
 }
@@ -45,8 +45,8 @@ export const friendMessage0: MessageType = {
         name: 'BassX', // можно менять
     },
     message: {
-        text: 'Hi man, everything is perfect!', // можно менять
-        time: '22:00', // можно менять
+        text: 'Hello, how are you, what did you do yesterday?', // можно менять
+        time: '22:03', // можно менять
     },
 }
 
