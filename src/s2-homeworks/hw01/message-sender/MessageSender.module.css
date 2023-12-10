@@ -40,5 +40,7 @@
 }
 
 .button:active {
-
+    background: #FFF;
+    color: #06C;
+    border: solid 1px #06C;
 }
