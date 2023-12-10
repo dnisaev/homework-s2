@@ -48,6 +48,7 @@
 .messageText {
     margin-top: 3px;
     white-space: pre-wrap;
+    word-break: break-all;
 
     color: #FFF;
     font-family: Montserrat, sans-serif;
