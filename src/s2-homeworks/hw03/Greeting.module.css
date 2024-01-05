@@ -16,8 +16,7 @@
     height: 36px;
     margin-right: 12px;
     border-radius: 5px;
-
-    border-color: #D1D1D1;
+    border: 1px solid #D1D1D1;
 }
 
 .input:focus {
@@ -37,11 +36,17 @@
 }
 
 .button {
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px; /* 142.857% */
     height: 36px;
     padding: 5px 24px;
     border-radius: 3px;
     background: #06C;
     color: white;
+    border: none;
+    cursor: pointer;
 }
 
 .button:focus {
