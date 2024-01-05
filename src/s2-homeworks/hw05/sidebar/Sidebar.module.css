@@ -25,20 +25,27 @@
 }
 
 .nav {
-
+    display: flex;
+    flex-direction: column;
 }
 
 .nav a {
-
+    margin-bottom: 45px;
+    color: #000;
+    font-family: Montserrat, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration-line: none;
 }
 
-
 .nav a:hover {
-
+    color: #58ACFF;
+    cursor: pointer;
 }
 
 .nav a.active {
-
+    color: #0059B2;
+    text-decoration-line: underline;
 }
 
 .close {
@@ -47,6 +54,7 @@
     left: 270px;
     border: none;
     background: none;
+    cursor: pointer;
 }
 
 .close img {
