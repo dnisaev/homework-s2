@@ -20,6 +20,9 @@
 
 .rowHeader {
     display: flex;
+    background-color: lightgrey;
+    padding: 5px 0;
+    margin: 10px 0;
 }
 
 .loading {
